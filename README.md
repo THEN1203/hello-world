@@ -1,2 +1,3 @@
 # hello-world
-getting started
+getting started.
+im getting started using git.
